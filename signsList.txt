@@ -1,0 +1,15 @@
+Hello
+how are you - https://www.youtube.com/watch?v=U5LSlcD8xPg
+i am a student - me + student
+nice to meet you - https://www.youtube.com/watch?v=F6sn_h1Xea0
+what is your name - you + name + what
+this is our project - this + project + our
+it understands sentences -  this + sentences + understand
+this is a computer - this + computer
+The classroom has many chairs - classroom + chairs + many
+yes
+no
+thank you
+good morning, afternoon
+
+['what', 'hello', 'how are you', 'me', 'student', 'nice to meet you', 'you', 'name', 'this', 'project', 'our', 'sentences', 'understand', 'computer', 'classroom', 'chairs', 'many', 'yes', 'no', 'thank you', 'good', 'morning', 'afternoon']
