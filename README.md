@@ -25,6 +25,7 @@ To run this project, ensure you have the following Python packages installed:
 pip install numpy matplotlib opencv-python tensorflow
 
 📊 Results and Visualization
+
 1.Loss Graph
 
 ![WhatsApp Image 2025-04-17 at 19 39 38_1512d195](https://github.com/user-attachments/assets/52ea1f05-d355-45d6-8c66-5cab0a68c403)
