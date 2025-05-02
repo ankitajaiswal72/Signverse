@@ -25,6 +25,15 @@ To run this project, ensure you have the following Python packages installed:
 pip install numpy matplotlib opencv-python tensorflow
 
 📊 Results and Visualization
+1.Loss Graph
+
+![WhatsApp Image 2025-04-17 at 19 39 38_1512d195](https://github.com/user-attachments/assets/52ea1f05-d355-45d6-8c66-5cab0a68c403)
+
+2.Accuracy Graph
+
+![WhatsApp Image 2025-04-17 at 19 39 37_cb85e12b](https://github.com/user-attachments/assets/79aa1f5e-6bc6-4f5f-ab46-46b6731181fe)
 
 ![WhatsApp Image 2025-04-29 at 17 29 22_c4dc5a81](https://github.com/user-attachments/assets/19093067-df0b-4b9d-8642-1580515b9632)
+
+![WhatsApp Image 2025-04-29 at 17 29 22_4c056b10](https://github.com/user-attachments/assets/737f76db-c0d0-4704-aeae-f5ddcf0001c6)
 
